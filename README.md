@@ -10,5 +10,7 @@ Dependencies
 ------------
 * ofxOsc
 
-
+Changes
+------------
+Updated draw commands to work with openFrameworks 0.10
 
